@@ -18,7 +18,19 @@ TONE_INSTRUCTIONS = {
     "heartfelt": "Make it warm, genuine, and supportive without being too long.",
     "classic": "Make it sound like a natural Instagram comment, specific but casual.",
 }
+def generate_comment(image_path, caption, tone="classic"):
+    from PIL import Image
 
+    image = Image.open(image_path).convert("RGB")
+
+    inputs = processor(images=image, text=caption, return_tensors="pt").to(device)
+
+    output = model.generate(**inputs, max_new_tokens=30)
+    comment = processor.decode(output[0], skip_special_tokens=True)
+
+    return comment
+    
+from BLIP2_inference import generate_comment
 
 @dataclass
 class GenerationResult:
