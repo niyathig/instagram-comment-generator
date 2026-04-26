@@ -7,7 +7,7 @@ from BLIP2_inference import generate_comment
 
 # ====== CONFIG ======
 DATA_PATH = "data/dataset.csv"   # CHANGE THIS if needed
-OUTPUT_PATH = "docs/eval_50_results.csv"
+OUTPUT_PATH = "data/eval_50_results.csv"
 
 # ====== LOAD DATA ======
 df = pd.read_csv(DATA_PATH)
@@ -84,7 +84,7 @@ for i, row in df_50.iterrows():
     })
 
 # ====== SAVE RESULTS ======
-os.makedirs("docs", exist_ok=True)
+os.makedirs("data", exist_ok=True)
 
 results_df = pd.DataFrame(results)
 results_df.to_csv(OUTPUT_PATH, index=False)
