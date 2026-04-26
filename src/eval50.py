@@ -16,7 +16,7 @@ df = pd.read_csv(DATA_PATH)
 # REQUIRED: image_path, caption
 # OPTIONAL: comment (ground truth)
 
-df_50 = df.head(50)
+df_50 = df.head(10)
 
 results = []
 
