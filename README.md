@@ -6,7 +6,9 @@ What it Does: This Comment Generator works in two ways: with image and caption o
 Quick Start: To run the project, you can access the training.ipynb notebook and run the cells. The last cell will generate a gradio link, which will take you to the interface.
 
 Video Links: 
+
     Demo Link:
+    
     Technical Walk-Through: https://duke.zoom.us/rec/share/HLk9as86V63nB-tpLFoCSGv6qfz_4lLf0TPoWO3XGC5RMUUqL1_nlqpAS3Aj8VC5._30bHSMlE9G9Ui8c
 
 Evaluation Results:
