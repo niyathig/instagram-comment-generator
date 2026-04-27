@@ -14,4 +14,5 @@ Evaluation Results:
 Individual Contributions:
 
     Niyathi: Selected the models to use and fine-tuned them to create the final model. Created the synthetic data set and wrote the code for training the models. Created the UI with gradio and filmed the technical walkthrough. 
+    
     Sudiksha: Created the evaluation model and metrics for all three methods. Implemented the code and cleaned synthetic data file for Inference-Git model to get better results. Organized and completed the directories. Recorded the demo video.
