@@ -1,8 +1,4 @@
-//individual Contributions section describing who did what//
-//Where appropriate, you should include sample outputs or screenshots in your README file to demonstrate your project’s functionality. Your README.md should be a concise reference and usage guide – your videos should present the primary explanation and discussion//
-//Project Title and short (1-3 sentence) description of what your project does,
-a What it Does section that describes in one paragraph what your project does,
-a Quick Start section that concisely explains how to run your project,
-a Video Links section with direct links to your demo and technical walkthrough videos,
-an Evaluation section that presents any quantitative results, accuracy metrics, or qualitative outcomes from testing,
-and an Individual Contributions section for group projects that describes who did what//
+Project Title: Instagram Comment Generator
+    People spend hours on social media, scrolling through short form media, looking through photos, and engaging with their friends' posts. Often times engagement means liking and commenting. Comments flood a post and typically are the same thing written in 30 different ways. To eliminate this, we created an Instagram Comment Generator.
+
+What it Does: This Comment Generator takes the input of a photo and a caption that the photo was posted with and creates three options for comments that users can use. 
