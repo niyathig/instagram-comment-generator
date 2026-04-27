@@ -7,11 +7,11 @@ Quick Start: To run the project, you can access the training.ipynb notebook and 
 
 Video Links: 
     Demo Link:
-    Technical Walk-Through:
+    Technical Walk-Through: https://duke.zoom.us/rec/share/HLk9as86V63nB-tpLFoCSGv6qfz_4lLf0TPoWO3XGC5RMUUqL1_nlqpAS3Aj8VC5._30bHSMlE9G9Ui8c
 
 Evaluation Results:
 
 Individual Contributions:
     Niyathi: Selected the models to use and fine-tuned them to create the final model. Created the synthetic data set and wrote the code for training the models. Created the UI with gradio and filmed the technical walkthrough.
-
+    
     Sudiksha: Created the evaluation model and metrics for all three methods. Implemented the code and cleaned synthetic data file for Inference-Git model to get better results. Organized and completed the directories. Recorded the demo video.
