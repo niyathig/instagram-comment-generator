@@ -7,7 +7,7 @@ Quick Start: To run the project, you can access the training.ipynb notebook and 
 
 Video Links: 
     Demo Link: https://www.loom.com/share/001565e7be5d47288367589b188e7f30
-    Technical Walk-Through:
+    Technical Walk-Through: https://duke.zoom.us/rec/share/8C0oHufwM4wovLRGwdsSRhdcyY3_Ni7BOTFXF6Z7E8BnCXk3ooXOZ1ecULfErK9C.TjPtKnvuD2YDVJUQ
 
 Evaluation Results: https://docs.google.com/document/d/1G0mPDhPHTIe48oFIGFkZs8gHtTmHM6FbHOMpQkEYKZ0/edit?usp=sharing This link takes you the quantative plots. The output evaluation tables are under docs as csv files. Qualatative evaluations will be spoken about in the technical walk through.
 
