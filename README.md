@@ -6,7 +6,7 @@ What it Does: This Comment Generator works in two ways: with image and caption o
 Quick Start: To run the project, you can access the training.ipynb notebook and run the cells. The last cell will generate a gradio link, which will take you to the interface.
 
 Video Links: 
-    Demo Link:
+    Demo Link: https://www.loom.com/share/001565e7be5d47288367589b188e7f30
     Technical Walk-Through:
 
 Evaluation Results: https://docs.google.com/document/d/1G0mPDhPHTIe48oFIGFkZs8gHtTmHM6FbHOMpQkEYKZ0/edit?usp=sharing This link takes you the quantative plots. The output evaluation tables are under docs as csv files. Qualatative evaluations will be spoken about in the technical walk through.
